@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://revolvixautomations.github.io/snippets-sw7qcj/sitemap.xml
